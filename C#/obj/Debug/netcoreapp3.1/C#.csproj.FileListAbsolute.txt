@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\MLH\C#\bin\Debug\netcoreapp3.1\C#.exe
+C:\Users\user\Desktop\MLH\C#\bin\Debug\netcoreapp3.1\C#.deps.json
+C:\Users\user\Desktop\MLH\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+C:\Users\user\Desktop\MLH\C#\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\MLH\C#\bin\Debug\netcoreapp3.1\C#.dll
+C:\Users\user\Desktop\MLH\C#\bin\Debug\netcoreapp3.1\C#.pdb
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.dll
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.pdb
+C:\Users\user\Desktop\MLH\C#\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
